@@ -43,7 +43,15 @@ CỦ TAM THẤT - TÁC DỤNG CỦA CỦ TAM THẤT
 
    cu-tam-that-co-may-loai
    
+   
+.. _nuhoatamthat:
 
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: NỤ HOA TAM THẤT CÓ TÁC DỤNG GÌ
+
+   nu-hoa-tam-that-co-tac-dung-gi
 
 
 
